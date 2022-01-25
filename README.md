@@ -30,6 +30,4 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirag0002&show_icons=true&locale=en&layout=compact" alt="chirag0002" /></p>
-
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=chirag0002&show_icons=true&locale=en" alt="chirag0002" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chirag0002&show_icons=true&locale=en" alt="chirag0002" /></p>
