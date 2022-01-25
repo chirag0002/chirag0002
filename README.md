@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm <a href="https://chiragv.netlify.app/" target="blank"> Chirag </a>.</h1>
-<h3>A passionate Web developer from India.</h3>
+<h1>Hi 👋, I'm <a target="blank" href="https://chiragv.netlify.app/"> Chirag </a>.</h1>
+<h3>A passionate Web developer👨‍💻 from India.</h3>
 
 - 🌱 I’m currently learning in deep about Web Developing **.**
 
