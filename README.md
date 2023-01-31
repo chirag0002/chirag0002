@@ -1,4 +1,4 @@
-![Chirag VArshney](https://user-images.githubusercontent.com/87241050/185745253-3feddfd5-f204-4431-925a-08ce80b5b603.png)
+![Chirag VArshney](https://user-images.githubusercontent.com/87241050/215798537-d05f1a35-c946-402b-8ee0-e33dd05e138e.png)
 
 <h1>Hi 👋, I'm <a target="blank" href="https://portfolio-13b734.spheron.app/"> Chirag </a>.</h1><br>
 👨‍💻 A passionate Developer and Learner from India.<br>
